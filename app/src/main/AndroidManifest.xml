@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.arpan.offlineevents">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".OfflineActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".desc1" />
+        <activity android:name=".desc2" />
+        <activity android:name=".desc3" />
+        <activity android:name=".desc4" />
+        <activity android:name=".desc5" />
+        <activity android:name=".desc6" />
+        <activity android:name=".desc7" />
+        <activity android:name=".desc8" />
+        <activity android:name=".desc9" />
+        <activity android:name=".desc10" />
+        <activity android:name=".desc11" />
+        <activity android:name=".desc12" />
+        <activity android:name=".desc13" />
+        <activity android:name=".desc14" />
+        <activity android:name=".desc15" />
+        <activity android:name=".desc16" />
+        <activity android:name=".desc17" />
+        <activity android:name=".desc18" />
+        <activity android:name=".desc19" />
+        <activity android:name=".desc20" />
+        <activity android:name=".desc21" />
+        <activity android:name=".desc22" />
+        <activity android:name=".desc23"></activity>
+    </application>
+
+</manifest>
