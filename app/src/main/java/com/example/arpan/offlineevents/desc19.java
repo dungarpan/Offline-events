@@ -30,6 +30,6 @@ public class desc19 extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_desc1);
+        setContentView(R.layout.activity_desc19);
     }
 }
