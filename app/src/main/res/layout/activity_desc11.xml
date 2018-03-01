@@ -31,7 +31,7 @@
             android:layout_marginRight="30dp"
             android:paddingBottom="10dp"
             android:paddingTop="15dp"
-            android:text="this is a very long descriptionthis is a very long descriptionthis is a very long descriptionthis is a very long description"
+            android:text="Logic and creativity are all you need to survive and win this event that tests your code cracking abilities. It does not require any previous knowledge other than presence of mind."
             android:textColor="@android:color/white"
             android:textSize="18sp" />
 
@@ -55,7 +55,8 @@
             android:foregroundGravity="bottom"
             android:gravity="bottom"
             android:orientation="horizontal"
-            android:paddingBottom="15dp">
+            android:paddingBottom="15dp"
+            android:paddingTop="10dp">
 
             <ImageView
                 android:id="@+id/imageView3"

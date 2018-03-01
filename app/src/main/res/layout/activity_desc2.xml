@@ -31,7 +31,7 @@
             android:layout_marginRight="30dp"
             android:paddingBottom="10dp"
             android:paddingTop="15dp"
-            android:text="this is a very long descriptionthis is a very long descriptionthis is a very long descriptionthis is a very long description"
+            android:text="Building things from scratch is every engineer’s dream so we give you a chance to turn that dream into reality by giving you an opportunity to unleash your engineering skills and to make a working prototype out of some raw materials. The prototype has to undergo certain tests and winners are decided on their prototype’s performance."
             android:textColor="@android:color/white"
             android:textSize="18sp" />
 
@@ -55,7 +55,8 @@
             android:foregroundGravity="bottom"
             android:gravity="bottom"
             android:orientation="horizontal"
-            android:paddingBottom="15dp">
+            android:paddingBottom="15dp"
+            android:paddingTop="10dp">
 
             <ImageView
                 android:id="@+id/imageView3"
