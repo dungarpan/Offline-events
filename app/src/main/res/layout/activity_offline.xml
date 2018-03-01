@@ -27,7 +27,7 @@
             app:cardBackgroundColor="#125067"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -85,11 +85,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#199492"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -147,11 +147,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#980e7d"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -209,11 +209,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#e9223f"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -271,11 +271,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#372107"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -333,11 +333,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#ca6a28"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -395,11 +395,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#125067"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -457,11 +457,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#199492"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -519,11 +519,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#980e7d"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -581,11 +581,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#e9223f"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -643,11 +643,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#372107"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -705,11 +705,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#ca6a28"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -767,11 +767,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#125067"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -829,11 +829,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#199492"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -891,11 +891,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#980e7d"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -953,11 +953,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#e9223f"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -1015,11 +1015,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#372107"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -1077,11 +1077,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#ca6a28"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -1139,11 +1139,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#125067"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -1201,11 +1201,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#199492"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -1263,11 +1263,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#980e7d"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -1325,11 +1325,11 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#e9223f"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
-            app:cardUseCompatPadding="true">>
+            app:cardUseCompatPadding="true">
 
 
             <LinearLayout
@@ -1387,7 +1387,7 @@
             android:layout_height="150dp"
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp"
-            android:layout_marginTop="5dp"
+            android:layout_marginTop="2dp"
             app:cardBackgroundColor="#372107"
             app:cardCornerRadius="4dp"
             app:cardElevation="2dp"
