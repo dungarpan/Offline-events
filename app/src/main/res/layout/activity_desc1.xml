@@ -21,7 +21,7 @@
             android:layout_width="wrap_content"
             android:layout_height="230dp"
             android:layout_margin="10dp"
-            app:srcCompat="@drawable/calloutsherlockdb" />
+            app:srcCompat="@drawable/clashoftitansdb" />
 
         <TextView
             android:id="@+id/textView"
