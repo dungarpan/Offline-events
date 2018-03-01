@@ -21,7 +21,7 @@
             android:layout_width="wrap_content"
             android:layout_height="230dp"
             android:layout_margin="10dp"
-            app:srcCompat="@drawable/me" />
+            app:srcCompat="@drawable/conquestodb" />
 
         <TextView
             android:id="@+id/textView"
@@ -31,7 +31,7 @@
             android:layout_marginRight="30dp"
             android:paddingBottom="10dp"
             android:paddingTop="15dp"
-            android:text=""
+            android:text="This event is a platform for the participants to channel their latent business acumen and combat challenges in the industrial world. For the first time engineers-in-making are given a chance to setup their own companies,as they bid their way to attain the force and power to execute their ideas and convince business tycoons to fund their attempts. Real time problems in the industrial world would test the practicality and feasibility of their ideas. All-in-all this will surely be an event which keeps the contestants at the edge-of-their-seats throughout as they battle their way through the cut-throat competition of the industrial giants."
             android:textColor="@android:color/white"
             android:textSize="18sp" />
 

@@ -21,7 +21,7 @@
             android:layout_width="wrap_content"
             android:layout_height="230dp"
             android:layout_margin="10dp"
-            app:srcCompat="@drawable/me" />
+            app:srcCompat="@drawable/junkyarddb" />
 
         <TextView
             android:id="@+id/textView"
@@ -31,7 +31,7 @@
             android:layout_marginRight="30dp"
             android:paddingBottom="10dp"
             android:paddingTop="15dp"
-            android:text="this is a very long descriptionthis is a very long descriptionthis is a very long descriptionthis is a very long description"
+            android:text="All that glitters is surely not gold but is definitely SCRAP-is the backbone of this event. Budget your time and money and convert scrap into something useful, which stands out in the crowd and  establishes you as a successful technocrat ever. So, gear up ,get out of the box, rummage through the garage and prove your worth converting something very useless into something basic and useful."
             android:textColor="@android:color/white"
             android:textSize="18sp" />
 
@@ -55,7 +55,9 @@
             android:foregroundGravity="bottom"
             android:gravity="bottom"
             android:orientation="horizontal"
-            android:paddingBottom="15dp">
+            android:paddingBottom="15dp"
+            android:paddingTop="10dp">
+
 
             <ImageView
                 android:id="@+id/imageView3"

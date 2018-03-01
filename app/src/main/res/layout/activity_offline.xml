@@ -508,7 +508,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/perplek" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -797,7 +797,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="CONQUESTO"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -818,7 +818,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/conquestodb" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -859,7 +859,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="CODE CRACKER"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -880,7 +880,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/codecrk" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -921,7 +921,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="Lipi"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -942,7 +942,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/lipi3" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -983,7 +983,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="INCANITY"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -1004,7 +1004,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/incan" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -1045,7 +1045,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="FANTASY FOOTBALL"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -1066,7 +1066,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/ff" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -1107,7 +1107,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="EXPLICATE"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -1128,7 +1128,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/cnc" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -1169,7 +1169,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="JUNKYARD"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -1190,7 +1190,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/junkyarddb" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -1231,7 +1231,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="TRANSMISSION"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -1252,7 +1252,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/transmissionlb" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -1293,7 +1293,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="APOCALYPSE"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -1314,7 +1314,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/apocalypsep" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -1355,7 +1355,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="AUTOLOCKED"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -1376,7 +1376,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/autolockedr" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>
@@ -1417,7 +1417,7 @@
                         android:gravity="center_vertical"
                         android:paddingBottom="10dp"
                         android:paddingLeft="0dp"
-                        android:text="TextView"
+                        android:text="GENESIS"
                         android:textColor="@android:color/white"
                         android:textSize="22sp" />
 
@@ -1438,7 +1438,7 @@
                     android:layout_height="wrap_content"
                     android:layout_margin="6dp"
                     android:layout_weight="3"
-                    app:srcCompat="@drawable/me" />
+                    app:srcCompat="@drawable/genesisdo" />
 
             </LinearLayout>
         </android.support.v7.widget.CardView>

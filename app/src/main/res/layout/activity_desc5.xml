@@ -31,7 +31,7 @@
             android:layout_marginRight="30dp"
             android:paddingBottom="10dp"
             android:paddingTop="15dp"
-            android:text="this is a very long descriptionthis is a very long descriptionthis is a very long descriptionthis is a very long description"
+            android:text="If you have the passion of an actor and the brains of an engineer, look no further as we have just the thing for you! This event is specially designed to judge the acting and technical skills of students. Hints are given to find the technical word which must be enacted to the fellow team members and help them deduce the answer. Remember, the clock is ticking"
             android:textColor="@android:color/white"
             android:textSize="18sp" />
 

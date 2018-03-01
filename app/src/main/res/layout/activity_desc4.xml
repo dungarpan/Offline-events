@@ -31,7 +31,7 @@
             android:layout_marginRight="30dp"
             android:paddingBottom="10dp"
             android:paddingTop="15dp"
-            android:text="this is a very long descriptionthis is a very long descriptionthis is a very long descriptionthis is a very long description"
+            android:text=" Living in the digital age, we cannot imagine life without the internet or wifi, for that matter. This event is based on the concept of wifi and hotspot, and involves the idea of quick thinking, connecting clues and team spirit .This never seen before idea is filled with a bit of suspense and a whole lot of fun."
             android:textColor="@android:color/white"
             android:textSize="18sp" />
 
