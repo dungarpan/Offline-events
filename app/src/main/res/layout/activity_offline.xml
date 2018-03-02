@@ -55,7 +55,7 @@
                         android:paddingLeft="0dp"
                         android:text="CLASH OF TITANS"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -63,9 +63,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Let the League of the Legends begin."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -117,7 +117,7 @@
                         android:paddingLeft="0dp"
                         android:text="CONSTRUCTO"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -125,9 +125,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Mold scrap from scratch!"
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -179,7 +179,7 @@
                         android:paddingLeft="0dp"
                         android:text="HOUSE OF CUPS"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -187,9 +187,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Don't let the house down."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -241,7 +241,7 @@
                         android:paddingLeft="0dp"
                         android:text="DISCURSIVO"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -249,9 +249,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Hack me if you can."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -303,7 +303,7 @@
                         android:paddingLeft="0dp"
                         android:text="TECH CHARADES"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -311,9 +311,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Cause Actions Speak Louder Than Words."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -365,7 +365,7 @@
                         android:paddingLeft="0dp"
                         android:text="TERRORIST TAKE DOWN"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -373,9 +373,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Snipe down memes to rush to glory."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -427,7 +427,7 @@
                         android:paddingLeft="0dp"
                         android:text="CALL OUT SHERLOCK"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -435,9 +435,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="The Game is On."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -489,7 +489,7 @@
                         android:paddingLeft="0dp"
                         android:text="PERPLEXITY"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -497,9 +497,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Bid your best foot forward as the stakes are high"
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -551,7 +551,7 @@
                         android:paddingLeft="0dp"
                         android:text="MATRIX"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -559,9 +559,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Let your parallels intersect. "
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -613,7 +613,7 @@
                         android:paddingLeft="0dp"
                         android:text="CUBORITA"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -621,9 +621,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="You don't need to know how, cubes will fall into place"
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -675,7 +675,7 @@
                         android:paddingLeft="0dp"
                         android:text="KRYPTIC"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -683,9 +683,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Do you know some Sine Language? Cos we think you do."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -737,7 +737,7 @@
                         android:paddingLeft="0dp"
                         android:text="DARWINIA"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -745,9 +745,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="He who fights to fit, will survive to succeed."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -799,7 +799,7 @@
                         android:paddingLeft="0dp"
                         android:text="CONQUESTO"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -807,9 +807,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Be the Ambani of your dreams before others hire you."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -861,7 +861,7 @@
                         android:paddingLeft="0dp"
                         android:text="CODE CRACKER"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -869,9 +869,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Talk is cheap. Show us the code."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -923,7 +923,7 @@
                         android:paddingLeft="0dp"
                         android:text="Lipi"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -931,9 +931,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Let your mother tongue exude the magic of your emotions."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -985,7 +985,7 @@
                         android:paddingLeft="0dp"
                         android:text="INCANITY"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -993,9 +993,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Go insane with C"
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -1047,7 +1047,7 @@
                         android:paddingLeft="0dp"
                         android:text="FANTASY FOOTBALL"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -1055,9 +1055,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="‘Kick’ start your football dreams"
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -1109,7 +1109,7 @@
                         android:paddingLeft="0dp"
                         android:text="EXPLICATE"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -1117,9 +1117,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="I think and I know things."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -1171,7 +1171,7 @@
                         android:paddingLeft="0dp"
                         android:text="JUNKYARD"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -1179,9 +1179,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Scrap-digger, are you?"
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -1233,7 +1233,7 @@
                         android:paddingLeft="0dp"
                         android:text="TRANSMISSION"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -1241,9 +1241,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Time to find another gear."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -1295,7 +1295,7 @@
                         android:paddingLeft="0dp"
                         android:text="APOCALYPSE"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -1303,9 +1303,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="The end is inevitable."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -1357,7 +1357,7 @@
                         android:paddingLeft="0dp"
                         android:text="AUTOLOCKED"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -1365,9 +1365,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Gear up to unlock."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView
@@ -1419,7 +1419,7 @@
                         android:paddingLeft="0dp"
                         android:text="GENESIS"
                         android:textColor="@android:color/white"
-                        android:textSize="22sp" />
+                        android:textSize="20sp" />
 
                     <TextView
                         android:id="@+id/content"
@@ -1427,9 +1427,9 @@
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="10dp"
                         android:layout_weight="0"
-                        android:text="TextView"
+                        android:text="Give your Impromptu sense an impetus."
                         android:textColor="@android:color/white"
-                        android:textSize="16sp" />
+                        android:textSize="14sp" />
                 </LinearLayout>
 
                 <ImageView

@@ -33,7 +33,7 @@
             android:paddingTop="15dp"
             android:text="Built on ROR, this is the only Open Source Online Judge build by GLUG Members in Eastern India.It is used to promote competitive programming which attracts maximum participation from all around the world. Around 45 countries participate, thus helping our college students to taste the competition from across the globe. Put your problem-solving skills and brains to the test as you get the chance to win exciting prices and goodies."
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <TextView
             android:id="@+id/textView2"
@@ -46,7 +46,7 @@
             android:paddingTop="25dp"
             android:text="Link to event"
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <LinearLayout
             android:layout_width="match_parent"

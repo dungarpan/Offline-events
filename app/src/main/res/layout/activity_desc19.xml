@@ -33,7 +33,7 @@
             android:paddingTop="15dp"
             android:text="All that glitters is surely not gold but is definitely SCRAP-is the backbone of this event. Budget your time and money and convert scrap into something useful, which stands out in the crowd and  establishes you as a successful technocrat ever. So, gear up ,get out of the box, rummage through the garage and prove your worth converting something very useless into something basic and useful."
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <TextView
             android:id="@+id/textView2"
@@ -46,7 +46,7 @@
             android:paddingTop="25dp"
             android:text="Link to event"
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <LinearLayout
             android:layout_width="match_parent"

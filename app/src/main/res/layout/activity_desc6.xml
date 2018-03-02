@@ -33,7 +33,7 @@
             android:paddingTop="15dp"
             android:text="Get ready to be amazed as we combine the the adrenaline rush of Counter Strike and the thrill of puzzles. It is a test of both speed and skill, as the race is not just within the mind, but extends to the physical world where the team is required to hunt for clues, decipher the coded message and reach successive checkpoints"
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <TextView
             android:id="@+id/textView2"
@@ -46,7 +46,7 @@
             android:paddingTop="25dp"
             android:text="Link to event"
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <LinearLayout
             android:layout_width="match_parent"

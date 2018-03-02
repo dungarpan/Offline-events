@@ -33,7 +33,7 @@
             android:paddingTop="15dp"
             android:text="Even the beginners in coding have to start somewhere. This is an offline event mainly for the 1st year students where different questions on C programming are asked and give them a start in programming of their college life."
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <TextView
             android:id="@+id/textView2"
@@ -46,7 +46,7 @@
             android:paddingTop="25dp"
             android:text="Link to event"
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <LinearLayout
             android:layout_width="match_parent"

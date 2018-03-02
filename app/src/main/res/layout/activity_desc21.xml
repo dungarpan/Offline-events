@@ -31,8 +31,10 @@
             android:layout_marginRight="30dp"
             android:paddingBottom="10dp"
             android:paddingTop="15dp"
+            android:text="If you have the zeal to overcome a difficult road, then this is the event for you. “Apocalypse” is the racing event in which you need to examine the hurdles and get a way to get through it. Also, only time is another thing you need to race against. So gear up everyone and get your bots ready for this hurdle race event.
+“It doesn't matter if you win by an inch or a mile. Winning’s winning”"
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <TextView
             android:id="@+id/textView2"
@@ -45,7 +47,7 @@
             android:paddingTop="25dp"
             android:text="Link to event"
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <LinearLayout
             android:layout_width="match_parent"

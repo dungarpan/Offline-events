@@ -33,7 +33,7 @@
             android:paddingTop="15dp"
             android:text="This event is a platform for the participants to channel their latent business acumen and combat challenges in the industrial world. For the first time engineers-in-making are given a chance to setup their own companies,as they bid their way to attain the force and power to execute their ideas and convince business tycoons to fund their attempts. Real time problems in the industrial world would test the practicality and feasibility of their ideas. All-in-all this will surely be an event which keeps the contestants at the edge-of-their-seats throughout as they battle their way through the cut-throat competition of the industrial giants."
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <TextView
             android:id="@+id/textView2"
@@ -46,7 +46,7 @@
             android:paddingTop="25dp"
             android:text="Link to event"
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <LinearLayout
             android:layout_width="match_parent"

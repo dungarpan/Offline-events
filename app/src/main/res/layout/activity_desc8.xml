@@ -33,7 +33,7 @@
             android:paddingTop="15dp"
             android:text="Marveled by the enigma machine and cracking cryptic clues? This event breaks the common place paradigm, involving encryption and decryption technique which is used worldwide for security purposes like in online transaction. One contributes to the security genre of computer science."
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <TextView
             android:id="@+id/textView2"
@@ -46,7 +46,7 @@
             android:paddingTop="25dp"
             android:text="Link to event"
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <LinearLayout
             android:layout_width="match_parent"

@@ -33,7 +33,7 @@
             android:paddingTop="15dp"
             android:text="Living in today’s world of technological advancement, this event is designed to apply your theoretical knowledge in practical field. This event puts to test the ability to see through riddles and arrange their analysis to unravel the answer. And finally, a scope for all automobile enthusiasts to design their own car models and zoom their way to the finishing line, combating the time limit imposed and the lack of resources at their disposal. "
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <TextView
             android:id="@+id/textView2"
@@ -46,7 +46,7 @@
             android:paddingTop="25dp"
             android:text="Link to event"
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <LinearLayout
             android:layout_width="match_parent"

@@ -33,7 +33,7 @@
             android:paddingTop="15dp"
             android:text="You might possess sound knowledge of technology and automobiles and their mechanisms, but can you convince others? “Transmission” presents you a series of challenging and mind boggling tasks wherein your technical skills are put to test and questioned by experience. Leave no stone unturned in keeping your concepts clean and error free cause that might just be your pitfall. Execute your knowledge and abilities to win over people."
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <TextView
             android:id="@+id/textView2"
@@ -46,7 +46,7 @@
             android:paddingTop="25dp"
             android:text="Link to event"
             android:textColor="@android:color/white"
-            android:textSize="18sp" />
+            android:textSize="15sp" />
 
         <LinearLayout
             android:layout_width="match_parent"
